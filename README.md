@@ -1,4 +1,4 @@
-# Sensores-digitales-e-interrupciones
+# Codigos Tercer Bimestre
 
 Espero que le entienda a los codigos con una nueva sección y tematicas nuevas que estare implementando este bimestre.
 
