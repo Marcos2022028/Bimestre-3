@@ -1,5 +1,5 @@
-#include <Stepper.h>
-#include "LedControl.h" 
+#include <Stepper.h> //Libreria del motor
+#include "LedControl.h" //Libreria de la matriz led
 
 
 LedControl MATLED = LedControl(11,13,10,1);	// crea objeto
